@@ -47,3 +47,17 @@ In the initial data preparation phase, we performed the following tasks:
 ## Dashboard
 
 ### Page 1 : Batsman Analysis
+![Screenshot (92)](https://github.com/user-attachments/assets/1d3cd48a-7700-451b-b726-e94f8454f8bc)
+
+### Page 2 : Bowling Analysis
+![Screenshot (93)](https://github.com/user-attachments/assets/beb6a3c4-9ce8-41ba-9c03-6a76543acf27)
+
+### Page 3 : Team Performance Analysis
+![Screenshot (94)](https://github.com/user-attachments/assets/bd7cd8b1-8755-4dae-9fb3-8cdd786717fc)
+
+**Note:** For understanding Visually checkout the above Visualization.
+
+## Contributors
+- [@Tarunsharma-20](https://github.com/Tarunsharma-20)
+
+Discover the game-changing insights of IPL with powerful analytics!
